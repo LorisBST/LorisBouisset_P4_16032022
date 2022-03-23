@@ -7,6 +7,25 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+/* CSS MANUEL */
+
+.site-navigation li a {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.voffset p {
+    font-size: 2rem;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.voffset h4 {
+font-size: 2rem;
+color: grey;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -651,7 +670,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -727,7 +746,7 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: #333333;
 }
 
 .icons {
