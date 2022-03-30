@@ -695,7 +695,7 @@ a {
 }
 
 p {
-    font-size: 1.2rem;
+    font-size: 1.6rem;
 }
 
 .tight-width-whitespace {
@@ -745,7 +745,9 @@ h1 {
 }
 
 h4 {
-    color: #333333;
+    font-size: 2rem;
+    color: #575757;
+    margin-bottom: 2.5rem;
 }
 
 .icons {
@@ -759,6 +761,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    display: initial;
 }
 
 .portfolio-row {
@@ -793,7 +796,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
